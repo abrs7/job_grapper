@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>We Work Remotely: Back-End Programming Jobs</title>
+    <item>
+      <title>Enveritas: Senior Software Engineer (Python)</title>
+      <region>Anywhere in the World</region>
+      <category>Back-End Programming</category>
+      <description>&lt;p&gt;Python and FastAPI. Reach careers@enveritas.example&lt;/p&gt;</description>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/enveritas-senior-software-engineer</guid>
+      <link>https://weworkremotely.com/remote-jobs/enveritas-senior-software-engineer</link>
+    </item>
+    <item>
+      <title>Old Co: Backend Developer</title>
+      <region>Anywhere in the World</region>
+      <category>Back-End Programming</category>
+      <description>Old posting</description>
+      <pubDate>Mon, 01 Jun 2026 12:00:00 +0000</pubDate>
+      <guid>https://weworkremotely.com/remote-jobs/old-co-backend</guid>
+      <link>https://weworkremotely.com/remote-jobs/old-co-backend</link>
+    </item>
+  </channel>
+</rss>

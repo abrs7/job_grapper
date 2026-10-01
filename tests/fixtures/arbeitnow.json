@@ -1,0 +1,4 @@
+{"data": [
+  {"slug": "java-dev-301", "company_name": "Berlin GmbH", "title": "Java Backend Developer", "description": "<p>Spring Boot, fully remote.</p>", "remote": true, "url": "https://www.arbeitnow.com/jobs/java-dev-301", "tags": ["java"], "job_types": ["full time"], "location": "Berlin", "created_at": 1790000000},
+  {"slug": "onsite-302", "company_name": "Munich AG", "title": "Python Developer", "description": "On site.", "remote": false, "url": "https://www.arbeitnow.com/jobs/onsite-302", "tags": [], "job_types": [], "location": "Munich", "created_at": 1790000000}
+]}
